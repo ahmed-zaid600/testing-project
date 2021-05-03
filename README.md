@@ -1,2 +1,2 @@
-# trsting-project
+# testing-project
 for learning 
